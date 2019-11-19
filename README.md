@@ -50,4 +50,4 @@ is packaged in an installer and complete zip file.
 
 *	FindAndReplace Portable released with the [MIT license](https://raw.githubusercontent.com/Makazzz/FindAndReplacePortable/master/LICENSE).
 *	PortableApps.com Launcher released with the [GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/FindAndReplacePortable/master/FindAndReplacePortable/Other/Source/LauncherLicense.txt).
-*	FindAndReplace released with the [MIT](https://raw.githubusercontent.com/zzzprojects/findandreplace/master/LICENSE).
+*	FindAndReplace released with the [MIT license](https://raw.githubusercontent.com/zzzprojects/findandreplace/master/LICENSE).
