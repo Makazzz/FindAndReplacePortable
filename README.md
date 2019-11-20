@@ -16,7 +16,7 @@ An open source tool to find and replace text in multiple files.
 
 Find and Replace (FNR) is an open source tool to find and replace text in multiple files. It can quickly search through large numbers of files and also find the information using regular expressions specifying the form of what you want, instead of literal text.
 
-My post on the [PortableApps.com forum](https://PortableApps.com/node/**Number**)
+My post on the [PortableApps.com forum](https://PortableApps.com/node/61247)
 
 ## Download
 
