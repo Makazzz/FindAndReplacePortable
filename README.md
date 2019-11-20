@@ -5,7 +5,7 @@
 # FindAndReplace Portable<a href="https://portableapps.com/"><img src="https://cdn.portableapps.com/portableapps.com_1546.png" width="309" height="45" alt="PortableApps.com - Your Digital Life, Anywhere" title="PortableApps.com - Your Digital Life, Anywhere" align="right"></a>
 
 <p align="center">
-	<a href="https://github.com/Makazzz/FindAndReplacePortable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/FindAndReplacePortable?color=a60000&logo=**Choose**"></a>
+	<a href="https://github.com/Makazzz/FindAndReplacePortable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/FindAndReplacePortable?color=a60000&logo=.NET"></a>
 	<a href="https://github.com/Makazzz/FindAndReplacePortable/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Makazzz/FindAndReplacePortable/latest/total?color=c10000"></a>
 	<a href="https://github.com/Makazzz/FindAndReplacePortable/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Makazzz/FindAndReplacePortable/total?color=a60000"></a>
 	<a href="https://github.com/Makazzz/FindAndReplacePortable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/FindAndReplacePortable?color=c10000"></a>
