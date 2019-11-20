@@ -39,6 +39,7 @@ is packaged in an installer and complete zip file.
 ## Requirements
 
 *	Microsoft Windows 7 or later.
+*	[.NET Framework 4.0](https://dotnet.microsoft.com/download/dotnet-framework/net40)
 *	[PortableApps.com Platform](https://PortableApps.com/download) (Recommended)
 
 ## Credits
