@@ -6,9 +6,9 @@
 
 <p align="center">
 	<a href="https://github.com/Makazzz/FindAndReplacePortable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/FindAndReplacePortable?color=a60000&logo=.NET"></a>
-	<a href="https://github.com/Makazzz/FindAndReplacePortable/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Makazzz/FindAndReplacePortable/latest/total?color=c10000"></a>
+	<a href="https://github.com/Makazzz/FindAndReplacePortable/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Makazzz/FindAndReplacePortable/latest/total?color=black"></a>
 	<a href="https://github.com/Makazzz/FindAndReplacePortable/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Makazzz/FindAndReplacePortable/total?color=a60000"></a>
-	<a href="https://github.com/Makazzz/FindAndReplacePortable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/FindAndReplacePortable?color=c10000"></a>
+	<a href="https://github.com/Makazzz/FindAndReplacePortable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/FindAndReplacePortable?color=black"></a>
 	<a href="https://raw.githubusercontent.com/Makazzz/FindAndReplacePortable/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Makazzz/FindAndReplacePortable?color=a60000"></a>
 </p>
 
